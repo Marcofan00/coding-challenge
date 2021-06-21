@@ -1,0 +1,77 @@
+body {
+    background-image:url(background.jpg);
+    background-size: cover;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    width: 150px;
+ }
+
+.container {
+    max-width: 60%;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 30px 30px;
+}
+
+header {
+    width: 100%;
+}
+
+header > h3{
+    color: limegreen;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    width: 100%;
+}
+nav > input{
+    display: inline-block;
+}
+nav{
+    background-color: limegreen;
+    width: 100%;
+    margin: auto;
+    padding: 8px 0;
+    display: inline-block;
+}
+
+.arancione {
+    height: 25px;
+    width: 40%;
+    background-color: orange;
+    border-radius: 5px;
+}
+
+section {
+    text-align: left;
+    color: white;
+}
+
+.title-m {
+    font-size: 20px;
+    display: inline-block;
+}
+
+.info {
+    font-size: 15px;
+}
+
+.verde {
+    height: 25px;
+    width: 60%;
+    background-color: green;
+    border-radius: 5px;
+}
+
+.rossa {
+    height: 25px;
+    width: 20%;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.margin-b {
+    margin-bottom: 15px;
+}
